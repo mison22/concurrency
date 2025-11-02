@@ -2,6 +2,21 @@
 
 Study materials and practice problems for Python coding tests with a focus on concurrency and asynchronous programming.
 
+## Table of Contents
+
+- [📚 Repository Contents](#-repository-contents)
+- [🎯 How to Use This Repository](#-how-to-use-this-repository)
+- [📋 Study Checklist](#-study-checklist)
+- [🚀 Quick Start](#-quick-start)
+- [💡 Key Patterns to Master](#-key-patterns-to-master)
+- [⚠️ Common Mistakes to Avoid](#️-common-mistakes-to-avoid)
+- [📖 Additional Resources](#-additional-resources)
+- [🎓 Interview Tips](#-interview-tips)
+- [📝 Notes](#-notes)
+- [🤝 Contributing](#-contributing)
+
+---
+
 ## 📚 Repository Contents
 
 This repository contains five comprehensive guides to help you prepare for Python coding interviews, particularly those focusing on concurrency, async/await, and performance optimization.
